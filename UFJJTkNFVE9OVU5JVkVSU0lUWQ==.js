@@ -1,4 +1,5 @@
 //Helpers^
+// gaycode v1
 'using strict';
 
 let _styleTag1 = document.createElement('style');
